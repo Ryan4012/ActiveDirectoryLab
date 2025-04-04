@@ -15,7 +15,7 @@ In this project lab I will be showcasing how to create an Active Directory Home 
 - <b>Windows 10</b> (21H2)
 - <b>Server 2019</b>
 
-<h2>Program walk-through:</h2>
+<h2>Project walk-through:</h2>
 
 <p align="center">
 Launch the utility: <br/>
