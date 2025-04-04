@@ -13,7 +13,7 @@ In this project lab I will be showcasing how to create an Active Directory Home 
 <h2>Environments Used </h2>
 
 - <b>Windows 10</b> (21H2)
-- <b>Server 2019</b> (21H2)
+- <b>Server 2019</b>
 
 <h2>Program walk-through:</h2>
 
