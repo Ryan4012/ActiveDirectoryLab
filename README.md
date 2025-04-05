@@ -12,8 +12,8 @@ In this project lab I will be showcasing how to create an Active Directory Home 
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
-- <b>Server 2019</b>
+- <b>Windows 10 ISO</b> 
+- <b>Server 2019 ISO</b>
 
 <h2>Project walk-through:</h2>
 
