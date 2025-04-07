@@ -1,7 +1,7 @@
 <h1>Active Directory Home Lab</h1>
 
 <h2>Description</h2>
-In this project lab I will be showcasing how to create an Active Directory Home Lab Envionrment using Oracle VirtualBox. Configuirng and running thourgh this lab gave me a better understanding of how active directory and windows networking works. 
+In this project lab I will be showcasing how to create an Active Directory Home Lab Envionrment using Oracle VirtualBox. Configuirng and running thourgh this lab gave me a better understanding of how active directory and windows networking works. In this lab I did come across a few issues however I was able to work through them. I originally struggled with setting up the virtual machine and to get it to run correctly but I had to tweak a few settings and it eventually worked. I also had an issue with the client machine not being able to ping www.google.com. This was happening because the client was referring to the wrong adapters DNS address. Everything came to together in the end and worked out. 
 <br />
 
 
