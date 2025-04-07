@@ -18,40 +18,40 @@ In this project lab I will be showcasing how to create an Active Directory Home 
 <h2>Project walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Setting up the Internet Adapters on the Domain Controller (DC): <br/>
+<img src="https://i.imgur.com/VOX8Y7s.png" height="60%" width="60%" alt="DC Internet"/>
+<img src="https://i.imgur.com/Knd14xX.png" height="60%" width="60%" alt="DC Internet"/>
+<img src="https://i.imgur.com/iIDBPuJ.png" height="60%" width="60%" alt="DC Internet"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+Adding an _ADMINS Organizational Unit to Active Directroy Users and Computers:  <br/>
+<img src="https://i.imgur.com/qiK7ZNL.png" height="50%" width="50%" alt="DC Admins"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+Choosing the right Internet Adapter for our Domain Controller (DC): <br/>
+<img src="https://i.imgur.com/nIEHAWB.png" height="60%" width="60%" alt="DC Internet choice"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+Configuring our DHCP by giving it a IP address range, Mask, and DNS address:  <br/>
+<img src="https://i.imgur.com/5jtpuC2.png" height="60%" width="60%" alt="DC DHCP Config"/>
+<img src="https://i.imgur.com/hgtaFdC.png" height="60%" width="60%" alt="DC DHCP Config"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+On the Client VM using the terminal to check if the IP and DNS addresses are correct as well as pinging www.google.com:  <br/>
+<img src="https://i.imgur.com/BJU65sm.png" height="60%" width="60%" alt="Client Terminal"/>
+<img src="https://i.imgur.com/nOHUV7h.png" height="60%" width="60%" alt="Client Terminal"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+Back on the Domain Controller (DC) checking if the client machine is connected to the DC and shows up in the Active Directroies Computers List:  <br/>
+<img src="https://i.imgur.com/cq9uQER.png" height="60%" width="60%" alt="DC Checking DHCP and AD"/>
+<img src="https://i.imgur.com/VnmPTHX.png" height="60%" width="60%" alt="DC Checking DHCP and AD"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 </p>
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
