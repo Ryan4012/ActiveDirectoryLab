@@ -41,6 +41,13 @@ Configuring our DHCP by giving it a IP address range, Mask, and DNS address:  <b
 <br />
 <br />
 <br />
+Using a PowerShell Script to Create 1000 Random Users:  <br/>
+<img src="https://i.imgur.com/UaqUqwR.jpeg" height="60%" width="60%" alt="DC PS Script/Use"/>
+<img src="https://i.imgur.com/bG9WmyF.jpeg" height="60%" width="60%" alt="DC PS Script/Use"/>
+<img src="https://i.imgur.com/FWjGvOE.jpeg" height="60%" width="60%" alt="DC PS Script/Use"/>
+<br />
+<br />
+<br />
 On the Client VM using the terminal to check if the IP and DNS addresses are correct as well as pinging www.google.com:  <br/>
 <img src="https://i.imgur.com/BJU65sm.png" height="60%" width="60%" alt="Client Terminal"/>
 <img src="https://i.imgur.com/nOHUV7h.png" height="60%" width="60%" alt="Client Terminal"/>
