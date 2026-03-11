@@ -15,6 +15,11 @@ In this project lab I will be showcasing how to create an Active Directory Home 
 - <b>Windows 10 ISO</b> 
 - <b>Server 2019 ISO</b>
 
+
+<h2>Project Diagram</h2>
+<p align="center">
+<img src="./images/AD-Diagram.jpeg"> 
+</p>
 <h2>Project walk-through:</h2>
 
 <p align="center">
